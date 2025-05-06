@@ -1,3 +1,4 @@
+!pip install n2yo pandas matplotlib requests cartopy
 import os import time import logging from dataclasses import dataclass from pathlib import Path from typing import Optional, Tuple
 
 import requests import pandas as pd import matplotlib.pyplot as plt
